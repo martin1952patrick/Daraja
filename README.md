@@ -1,13 +1,13 @@
-# DJANGO DARAJA API INTEGRATION
+# MPESA DARAJA API INTEGRATION
 
 Integrates Safaricom daraja API and performs an STKPush.
 
 ## Author
 
 👤 **Author**
-- Nixon Kipkorir Koech
+- Martin Omollo
 
-- GitHub: [@Koech-code](https://github.com/Koech-code)
+- GitHub: [@martin1952patrick](https://github.com/martin1952patrick/Daraja.git)
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ Integrates Safaricom daraja API and performs an STKPush.
 - Clone the repository using the link below
 
 ```
-$ git clone https://github.com/Koech-code/STKpush.git
+$ git clone https://github.com/martin1952patrick/Daraja.git
 
 ```
 
@@ -51,17 +51,12 @@ Lipanampesa
 
 ## Live Demo
 
-[Link]( https://documenter.getpostman.com/view/23533434/2s93CLstja)
+[Link]( https://documenter.getpostman.com/view/23737026/2s93JnV6rQ)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Thank the Lord for the far He has been with me all through this job search journey.
-- I would like to acknowledge Moringa school for giving me this opportunity to learn software development.
-- Appreciations to  my TM `Nancy Umutoniwase and Gilbert Cheboi` for the support they gave me.
 
 ## Contributing
 
